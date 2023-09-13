@@ -20,6 +20,8 @@ React Keeper is a modern web application that allows you to create and manage no
 
 ```bash
 git clone https://github.com/your-username/react-keeper.git
+```
+
 Navigate to the project directory:
 bash
 Copy code
