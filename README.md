@@ -18,57 +18,34 @@ React Keeper is a modern web application that allows you to create and manage no
 
 1. Clone this repository to your local machine:
 
+1. Navigate to the project directory:
+
 ```bash
-git clone https://github.com/your-username/react-keeper.git
+cd react-keeper
 ```
 
-Navigate to the project directory:
-bash
-Copy code
-cd react-keeper
-Install the required dependencies:
-bash
-Copy code
+2. Install the required dependencies:
+
+```bash
 npm install
-Start the development server:
-bash
-Copy code
+```
+
+3. Start the development server:
+
+``bash
 npm start
-Open your web browser and visit http://localhost:3000 to use React Keeper.
-Usage
-Launch the application by following the installation instructions above.
+```
 
-Once the application is running, you will see the main interface.
+1. Open your web browser and visit http://localhost:3000 to use React Keeper.
 
-To add a new note:
+## Usage
 
-Click the "Add Note" button.
-Enter a title and description for your note.
-Click the "Save" button to create the note.
-To delete a note:
-
-Hover over the note you want to delete.
-Click the "Delete" icon (typically represented as a trash can).
-Contributing
-If you would like to contribute to this project, please follow these guidelines:
-
-Fork the repository on GitHub.
-
-Create a new branch for your feature or bug fix:
-
-bash
-Copy code
-git checkout -b feature/your-feature-name
-Make your changes and commit them with descriptive commit messages.
-
-Push your changes to your forked repository:
-
-bash
-Copy code
-git push origin feature/your-feature-name
-Create a pull request on the original repository.
-
-
-
-
-
+1. Launch the application by following the installation instructions above.
+2. Once the application is running, you will see the main interface.
+3. To add a new note:
+     Click the "Add Note" button.
+     Enter a title and description for your note.
+     Click the "Save" button to create the note.
+4. To delete a note:
+     Hover over the note you want to delete.
+     Click the "Delete" icon (typically represented as a trash can).
